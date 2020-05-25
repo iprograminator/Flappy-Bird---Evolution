@@ -9,3 +9,9 @@ this program in pure implimentation of [xviniette repo](https://github.com/xvini
 
 ## Neuroevolution
 Neuroevolution is a machine learning technique that applies evolutionary algorithms to construct artificial neural networks, taking inspiration from the evolution of biological nervous systems in nature. Compared to other neural network learning methods, neuroevolution is highly general; it allows learning without explicit targets, with only sparse feedback, and with arbitrary neural models and network structures. Neuroevolution is an effective approach to solving reinforcement learning problems, and is most commonly applied in evolutionary robotics and artificial life.
+
+## DEMO
+
+- download zip or clone the file.
+- run index.html on the server.
+- press 1x 2x etc buttons to customize speed.
